@@ -4,4 +4,4 @@ Hello World
 
 変更
 
-gitcommit
+gitcommit --amend
